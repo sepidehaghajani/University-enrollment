@@ -1,16 +1,16 @@
 Name_Lesson,Unit,Professor's Name,Total_Capacity,Remain_Capacity,Number_of_obtained
-Engineering Drawing,2,Dr.Akbari,20,20,0
-Surveying Theory & Practice I,2,Dr.Alizadeh,20,20,0
-Architecture & Urban Design,2,Dr.Anoshe,20,20,0
-Statics,3,Dr.Mohseni,27,27,0
-Dynamics,3,Dr.Akbari,27,27,0
-Mechanics Of Materials I,3,Dr.Afra,27,27,0
-Mechanics Of Materials II,2,Dr.Namazi,20,20,0
-Fluid Mechanics,3,Dr.Alizadeh,20,20,0
-Geology Lab,1,Dr.Alizadeh,20,20,0
-Construction Materials,2,Dr.Akbari,20,20,0
-Construction Materials Lab,1,Dr.Mohseni,15,15,0
-Concrete Technology,2,Dr.Namazi,20,20,0
-Soil Mechanics,3,Dr.Iravani,20,20,0
-Soil Mechanics Lab,1,Dr.Afra,15,15,0
-Hydraulics,2,Dr.Mohseni,20,20,0
+Engineering Drawing,2,alikamerei,20,17,3
+Surveying Theory & Practice I,2,zahraalizadeh,20,19,1
+Architecture & Urban Design,2,hosseinanoshe,20,19,1
+Statics,3,hassanakbari,27,26,1
+Dynamics,3,hassanakbari,27,25,2
+Mechanics Of Materials I,3,hosseinanoshe,27,26,1
+Mechanics Of Materials II,2,alikamarei,20,19,1
+Fluid Mechanics,3,zahraalizadeh,20,17,3
+Geology Lab,1,zahraalizadeh,20,20,0
+Construction Materials,2,hassanakbari,20,20,0
+Construction Materials Lab,1,hosseinanoshe,15,14,1
+Concrete Technology,2,hosseinanoshe,20,20,0
+Soil Mechanics,3,zahraalizadeh,20,19,1
+Soil Mechanics Lab,1,hassanakbari,15,15,0
+Hydraulics,2,hassanakbari,20,20,0
